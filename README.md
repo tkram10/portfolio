@@ -1,4 +1,4 @@
-# <span style="color:red"> *Kushal Ram Tayi*</span>
+# <span style="color:red">Kushal Ram Tayi</span>
 
 ![Eccles_Logo_2017_Horiz_Black_RGB](https://github.com/tkram10/portfolio/assets/72302122/a3622cc3-e0f3-4877-bac9-e3f50980485e)
 
