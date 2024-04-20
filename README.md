@@ -17,4 +17,7 @@ Home Credit predicts clients' repayment abilities using various alternative data
 
 The process begins with data cleaning and preparing it for modeling. We then build predictive models to assess credit default risk, focusing on the target variable. Employing different machine learning models, we evaluate accuracy and ROC values to identify optimal models.
 
+## [Project-2: Swire Innovators](https://github.com/tkram10/Swire_Innovators_capstone)
+
+
 
