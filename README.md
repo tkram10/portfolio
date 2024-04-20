@@ -19,5 +19,15 @@ The process begins with data cleaning and preparing it for modeling. We then bui
 
 ## [Project-2: Swire Innovators](https://github.com/tkram10/Swire_Innovators_capstone)
 
+Swire Coca-Cola is focused on refining its production planning and management to accommodate its innovative product line better. A key component of this effort is improving demand forecasting to ensure more efficient use of resources and streamlined operations.
+
+From an analysis of product data spanning 2020 to 2023, significant insights have been gleaned, which are pivotal for strategic planning. The project aims to develop a dependable forecasting model to predict the demand for these innovative products accurately.
+
+The exploratory data analysis (EDA) has provided valuable information crucial for the forecasting process. By utilizing these insights, robust forecasting models are constructed considering various sales dynamics. This approach will allow Swire-Coca-Cola to predict market demand better, optimize inventory levels, and maximize the sales potential of its innovative products, ultimately leading to improved business performance.
+
+
+
+
+
 
 
